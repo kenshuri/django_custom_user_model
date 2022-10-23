@@ -1,6 +1,6 @@
 ## Minimal Django Custom User Model
 
-Minimal Django Custom User model where the email is used as username.
+Minimal Django Custom User model where the email is used as username. Refer to this [blog post](https://blog.kenshuri.com/posts/003_define_custom_user.md) for details!
 
 ### Installation
 
